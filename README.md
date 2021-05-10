@@ -1,6 +1,6 @@
 # goatCLI
-===
-Goat CLI tool to retrieve current price of a set shoe and size
+
+CLI tool to retrieve current price of a set shoe and size from [Goat](https://www.goat.com)
 
  <img  src="https://pdawg.reeee.ee/RxkAJE.png" width="800" alt="demo" title="demo"/>
 
