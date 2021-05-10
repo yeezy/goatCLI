@@ -1,4 +1,5 @@
 # goatCLI
+[![Go Report Card](https://goreportcard.com/badge/github.com/yeezy/goatCLI)](https://goreportcard.com/report/github.com/yeezy/goatCLI)
 
 CLI tool to retrieve current price of a set shoe and size from [Goat](https://www.goat.com)
 
